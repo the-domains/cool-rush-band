@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Various songs performed by Cool Rush '
-datePublished: '2016-01-28T15:42:17.543Z'
+datePublished: '2016-01-28T15:42:17.542Z'
 dateModified: '2016-01-28T15:42:14.280Z'
 author:
   - name: Dan Eller
