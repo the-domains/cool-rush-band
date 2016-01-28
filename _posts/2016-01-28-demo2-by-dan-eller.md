@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Various songs performed by Cool Rush '
-datePublished: '2016-01-28T15:39:04.914Z'
-dateModified: '2016-01-28T15:39:00.863Z'
+datePublished: '2016-01-28T15:42:17.550Z'
+dateModified: '2016-01-28T15:42:14.280Z'
 author:
   - name: Dan Eller
     url: 'http://soundcloud.com/dan-eller-793466094'
@@ -38,6 +38,6 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01c909dd-920a-4d86-8a20-2e80dca70af8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4abc00e65a30474b3c34ef0029c9a34e098e111.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F243885521%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdan-eller-793466094%2Fdemo2&amp;image=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1453490404&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
