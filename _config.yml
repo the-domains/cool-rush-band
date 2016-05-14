@@ -2,6 +2,7 @@ name: Cool Rush Band
 favicon: null
 layout_spectrum: 0.5119
 typography_spectrum: 0.11451
+title: Cool Rush Band
 cta:
   domain: null
   bucket: null
