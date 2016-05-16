@@ -1,18 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=oAuO-I40kC8&feature=share'
+inLanguage: null
+keywords: []
+description: 'Another video from Cool Rush! Lead vocals by Don Tennison on keyboard at The Par Lounge.'
+datePublished: '2016-05-16T22:48:07.161Z'
+dateModified: '2016-05-16T22:47:58.399Z'
 title: '"Tuff Enuff"'
-datePublished: '2016-05-16T21:37:02.248Z'
-dateModified: '2016-05-16T21:33:55.544Z'
 author:
   - name: Cool Rush Band
     url: 'https://www.youtube.com/user/CoolRushBand1'
     avatar: {}
-isBasedOnUrl: 'https://www.youtube.com/watch?v=oAuO-I40kC8&feature=share'
-description: 'Another video from Cool Rush! Lead vocals by Don Tennison on keyboard at The Par Lounge.'
-starred: false
 sourcePath: _posts/2016-05-16-tuff-enuff.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
